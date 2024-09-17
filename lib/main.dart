@@ -20,8 +20,6 @@ class Dalel extends StatelessWidget {
         body: Center(
           child: Text("Dalel App"),
         ),
-
-
       ),
     );
   }
